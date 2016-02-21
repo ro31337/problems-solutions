@@ -13,6 +13,7 @@ Print the length of the largest region in the given matrix.
 
 ### Constraints
 0 < m  < 10
+
 0 < n < 10
 
 ### Sample Input:
